@@ -1,0 +1,14 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+E:\DEBUG_CASE_20121001\GPM1316B0\GPM1316B0_HX8369_VIDEO_OK_RV02\project\tsl2583.uvproj
+Project File Date:  04/25/2013
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling STM32F10x.s...
+compiling tsl2583.c...
+creating Library...
+"tsl2583.lib" - 0 Error(s), 0 Warning(s).

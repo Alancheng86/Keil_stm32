@@ -1,0 +1,1 @@
+--cpu Cortex-M3 -g --apcs=interwork --pd "__MICROLIB SETA 1" -I "C:\Program Files (x86)\Keil_v4\ARM\INC" -I "C:\Program Files (x86)\Keil_v4\ARM\INC\ST\STM32F10x" --list ".\List\cortexm3_macro.lst" --xref -o ".\Obj\cortexm3_macro.o" --depend ".\Obj\cortexm3_macro.d" "cortexm3_macro.s"
